@@ -70,7 +70,7 @@ print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
 ```
 
 ## Output:
-![Github Logo](sam.png)
+![Github Logo](Home.jgp)
 
 
 ## Result:
