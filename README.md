@@ -74,7 +74,7 @@ print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
 ![Github Logo](Predict.jpg)
 ![Github Logo](Accuracy.jpg)
 ![Github Logo](Confusion.jpg)
-![Github Logo](Classification_report.jpg)
+![Github Logo](report.jpg)
 
 
 ## Result:
